@@ -1,2 +1,2 @@
-print("Hello, World")
-print("I'am IngGuGu")
+for k in range(1,11):
+    print(k)
